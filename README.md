@@ -16,7 +16,7 @@ The fully convolutional network is based on a pre-trained [VGG-16 network](https
 ![network](https://github.com/Yunying-Chen/Semantic-Segmentation_TF/blob/master/img/network.png)                                                                                       
 
 
-### hyperparameters
+### Hyperparameters
 * keep_prob: 0.5                           
 * learning_rate: 0.0001                                   
 * epochs: 25                              
